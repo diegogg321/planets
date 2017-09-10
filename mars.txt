@@ -1,0 +1,2 @@
+example of creating a file in notepad directly from GIT
+
